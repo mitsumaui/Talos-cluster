@@ -54,7 +54,7 @@ nodes:
             gateway: "192.168.160.1"
         vip:
           ip: "192.168.160.10"
-  - hostname: "k8s-test-2"
+  - hostname: "k8s-test-3"
     ipAddress: "192.168.160.9"
     installDisk: "/dev/sda"
     talosImageURL: factory.talos.dev/installer/376567988ad370138ad8b2698212367b8edcb69b5fd68c80be1f2ec7d603b4ba
